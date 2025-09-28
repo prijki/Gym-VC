@@ -1,0 +1,5 @@
+| Movimento                 | Flexão típica | `stage` muda para | Contagem |
+| ------------------------- | ------------- | ----------------- | -------- |
+| Começa em pé              | ~0°           | "up"              | 0        |
+| Você desce (flexão > 30°) | 30°–90°       | "down"            | 0        |
+| Você sobe (flexão < 10°)  | ~0°           | "up"              | **+1**   |
